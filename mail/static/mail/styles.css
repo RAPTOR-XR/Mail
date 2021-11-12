@@ -1,0 +1,16 @@
+textarea {
+    min-height: 400px;
+}
+
+.body {
+    background-color: azure;
+}
+
+.email-list-item-read, .email-list-item-unread{
+    background-color: aquamarine;
+    border-style: solid;
+}
+
+.email-list-item-unread{
+    background-color: aliceblue;
+}
